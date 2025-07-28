@@ -5,6 +5,7 @@ from tkinter import messagebox
 # Turtle and screen setup
 t = Turtle()
 screen = Screen()
+screen.title("Keyboard Doodle")
 t.pensize(3)
 t.shapesize(2, 2, 1)
 t.pencolor("blue")
