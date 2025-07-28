@@ -27,6 +27,7 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 | `+` or `-`      | Increase or decrease pen size                            |
 
 ![](./images/keyboard_doodle_start_screen.jpg)
+![](./images/keyboard_doodle_dark_mode.jpg)
 
 
 ## Colors
