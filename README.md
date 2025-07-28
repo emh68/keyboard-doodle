@@ -3,7 +3,6 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
 
 ![](./images/keyboard_doodle_demo.gif)
