@@ -1,5 +1,5 @@
 # keyboard-doodle
-A Python turtle-based drawing program inspired by Etch A Sketch. Control the turtle with arrow keys and change pen colors using letter keys. Includes light/dark mode and on-screen help.
+A Python turtle-based drawing program inspired by Etch A Sketch. Control the turtle with arrow keys and change the pen color using letter keys. Includes light/dark mode and on-screen help.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -9,10 +9,11 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 ![](./images/keyboard_doodle_demo.gif)
 
 ## Description
-* Use the arrow keys to move the turtle and draw
+* Use the arrow keys ↑ ↓ ← → to move the turtle and draw
 * Press letter keys to switch between unique, vibrant pen colors
-* Toggle between light and dark backgrounds using the Tab key
-* Open a help/instructions window by pressing the I key
+* Toggle between light and dark backgrounds using the `Tab` key
+* Open a help/instructions window by pressing the `i` key
+* Press the `c` to clear the screen
 
 
 ## Controls
@@ -29,34 +30,34 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 
 
 ## Colors
+> <small>**Note**: Emoji previews approximate the color and may vary by device.</small>
 
-| Key | Color (with preview)                     |
-|-----|-----------------------------------------|
-| a   | lime <span style="color:lime">⬤</span>           |
-| b   | dodger blue <span style="color:dodgerblue">⬤</span>   |
-| d   | dark violet <span style="color:darkviolet">⬤</span>   |
-| e   | firebrick <span style="color:firebrick">⬤</span>     |
-| f   | deep pink <span style="color:deeppink">⬤</span>      |
-| g   | lime green <span style="color:limegreen">⬤</span>     |
-| h   | dark orchid <span style="color:darkorchid">⬤</span>   |
-| j   | sea green <span style="color:seagreen">⬤</span>       |
-| k   | peru <span style="color:peru">⬤</span>               |
-| l   | white <span style="color:white">⬤</span>             |
-| m   | yellow green <span style="color:yellowgreen">⬤</span> |
-| n   | navy <span style="color:navy">⬤</span>               |
-| o   | dark orange <span style="color:darkorange">⬤</span>   |
-| p   | medium purple <span style="color:mediumpurple">⬤</span>|
-| q   | blue violet <span style="color:blueviolet">⬤</span>   |
-| r   | crimson <span style="color:crimson">⬤</span>          |
-| s   | silver <span style="color:silver">⬤</span>            |
-| t   | turquoise <span style="color:turquoise">⬤</span>      |
-| u   | sienna <span style="color:sienna">⬤</span>            |
-| v   | hot pink <span style="color:hotpink">⬤</span>         |
-| w   | orchid <span style="color:orchid">⬤</span>            |
-| x   | black <span style="color:black">⬤</span>              |
-| y   | gold <span style="color:gold">⬤</span>                |
-| z   | spring green <span style="color:springgreen">⬤</span> |
-
+| Key | Color Name       | Preview |
+|-----|------------------|---------|
+| a   | lime             | 🟢      |
+| b   | dodger blue      | 🔵      |
+| d   | dark violet      | 🟣      |
+| e   | firebrick        | 🔴      |
+| f   | deep pink        | 🌸      |
+| g   | lime green       | 🟢      |
+| h   | dark orchid      | 🟣      |
+| j   | sea green        | 🟢      |
+| k   | peru             | 🟤      |
+| l   | white            | ⚪      |
+| m   | yellow green     | 🟢      |
+| n   | navy             | 🔵      |
+| o   | dark orange      | 🟠      |
+| p   | medium purple    | 🟣      |
+| q   | blue violet      | 🔵      |
+| r   | crimson          | 🔴      |
+| s   | silver           | ⚪      |
+| t   | turquoise        | 🟦      |
+| u   | sienna           | 🟤      |
+| v   | hot pink         | 🌸      |
+| w   | orchid           | 🟣      |
+| x   | black            | ⚫      |
+| y   | gold             | 🟡      |
+| z   | spring green     | 🟢      |
 
 ## Requirements
 
