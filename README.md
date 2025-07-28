@@ -5,7 +5,8 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
 
-![](./images/keyboard_doodle_demo.gif)
+<img src="./images/keyboard_doodle_demo.gif" alt="Demo animation" width="600">
+
 
 ## Description
 * Use the arrow keys ↑ ↓ ← → to move the turtle and draw
@@ -25,9 +26,8 @@ A Python turtle-based drawing program inspired by Etch A Sketch. Control the tur
 | `i`             | Show instruction menu                     |
 | `+` or `-`      | Increase or decrease pen size                            |
 
-![](./images/keyboard_doodle_start_screen.jpg)
-![](./images/keyboard_doodle_dark_mode.jpg)
-
+<img src="./images/keyboard_doodle_start_screen.jpg" alt="start screen" width="600">
+<img src="./images/keyboard_doodle_dark_mode.jpg" alt="Dark mode" width="600">
 
 ## Colors
 > <small>**Note**: Emoji previews approximate the color and may vary by device.</small>
